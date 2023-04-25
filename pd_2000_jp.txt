@@ -17,6 +17,7 @@
 ・テレビの入力切り替えを行った際に、まれに音楽や動画の音声が「おもいでばこ」から出力されなくなる問題を修正しました。</description>
     </version>
     <version number="202211290500" name="6.40">
+        <url>https://driver.buffalo.jp/buf-drv/multi/omoidebako-ota-202211290500.zip</url>
         <description language="ja">・動画およびHEIF画像について色あいを調整しました。
 ※調整はおもいでばこ内で自動的に行われます。再とりこみの必要はありません。
 ※アップデート後、初回のサムネイル表示に少し時間がかかることがあります。
@@ -25,10 +26,5 @@
 ・携帯電話やデジタルカメラで撮影された一部の古い形式の動画で、音声が途切れる問題を修正しました。
 ・特定の動画や画像がとりこめない問題を修正しました。
 ・動作の安定性を向上しました。</description>
-    </version>
-    <version number="202212270610" name="6.41">
-        <url>https://driver.buffalo.jp/buf-drv/multi/omoidebako-ota-202212270610.zip</url>
-        <description language="ja">・おもいでばこのWi-Fi機能について、送信出力が規定値を超えている問題を修正しました。
-※Wi-Fi機能を搭載したモデルが対象です。</description>
     </version>
 </firmware_download_information>
